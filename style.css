@@ -1,0 +1,26 @@
+body {
+    display: block;
+    margin: 15px;
+}
+
+.jumbotron {
+    display: flex;
+    flex-flow: row wrap;
+    text-align: center;
+    
+}
+
+.container > * {
+    padding: 10px;
+    flex: 1 100%;
+}
+
+.header {
+    background-color: teal;
+    color: white;
+    text-align: center;
+}
+
+header {
+    display: block;
+}
