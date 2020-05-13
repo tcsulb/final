@@ -10,6 +10,7 @@ body {
     
 }
 
+/* makes page responsive */
 .container > * {
     padding: 10px;
     flex: 1 100%;
