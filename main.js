@@ -19,5 +19,5 @@ function validateInputs() {
 
         
     }
-    return result;
+    document.getElementById('calcResult').innerHTML=result;
 }
